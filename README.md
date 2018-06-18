@@ -1,4 +1,6 @@
 # dogs
 gizmo
-I have one dog.
-his name is gizmo.
+Puppies like to play hide and seek.
+Dogs can learn more than 1000 words.
+wagging tail is a sign of a happy dog.
+Puppies can sleep up to 18 to 20 hours.
